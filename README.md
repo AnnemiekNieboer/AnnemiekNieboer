@@ -7,7 +7,7 @@
 
 ---
 
-I'm a student Front-end development at [Novi University](https://www.novi.nl/) and passionate about online customer experience. 
+I'm a student Front-end development at [Novi University](https://www.novi.nl/) and passionate about online customer experience and a culture nerd. 
 
 In August '22 I will finish my study, and I can't wait to start with the real deal in an exciting and challenging job. I'm looking for a company with a good basic stack, but also daring to experiment. Where you are encouraged to keep developing and also contribute something good to the world.
 
