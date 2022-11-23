@@ -7,14 +7,14 @@
 
 ---
 
-I'm a student Front-end development at [Novi University](https://www.novi.nl/) and passionate about online customer experience and a culture nerd. 
+I just landed into my first job as a software developer at [Infi](https://www.infi.nl), I am passionate about online customer experience and a culture nerd. 
 
-In August '22 I will finish my study, and I can't wait to start with the real deal in an exciting and challenging job. I'm looking for a company with a good basic stack, but also daring to experiment. Where you are encouraged to keep developing and also contribute something good to the world.
+It is important for me to work in a place where there is a good base stack, but where there is also the courage to experiment. I love to keep developing myself and also contribute something good to the world.
 
 - 😄 My Pronouns: She/Her
-- 🔭 I’m currently working on: Just finished my final study project. It is a React web app for (digital) artists who would like to learn from the great masters of art and become one. You can search through the whole art collection of the [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) and add the colors to your own palette for inspiration for your own artwork. You can take a peek at the design [here](https://www.figma.com/file/aNHmSliJO7ZSncvnwmQFqM/Color-Palette---React-App) and a video of the final project [here](https://www.instagram.com/reel/ChplrA2IDX4/?igshid=YmMyMTA2M2Y=). While I'm curiously waiting for my final grade, I'm improving my JavaScript skills in a fun way through a creative coding course using sketch
-- 🌱 I’m currently learning: React
-- 🤔 I’m looking for help with: starting in the field as a junior front-end developer
+- 🔭 I’m currently working on: the GVB Gappie app at Infi
+- 🌱 I’m currently learning: Typescript
+- 🤔 I’m looking for help with: feeling comfortable as a junior front-end developer
 - 💬 Ask me about: experiences in retraining from a marketeer to a front-end developer
 - 📫 How to reach me: send me a message at [LinkedIn](https://www.linkedin.com/in/annemieknieboer/)
 - ⚡ Fun fact: I love to crank my Hurdy Gurdy. If you don't know what it is, [check it out here](https://www.youtube.com/watch?v=MEc7fT1TDbU). And no this is not me, I wish I could play like this 😅
