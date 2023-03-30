@@ -1,7 +1,8 @@
 <div align="center">
     <h3><img width="18px" src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif"> Hi, I'm Annemiek</h3>
     <a href="https://www.linkedin.com/in/annemieknieboer/">LinkedIn</a>  •
-    <a href="https://instagram.com/crea_diction">Instagram</a>
+    <a href="https://instagram.com/crea_diction">Instagram</a>  •
+    <a href="https://codepen.io/AnnemiekNieboer/">CodePen</a>
 </div>
 
 
@@ -13,7 +14,7 @@ It is important for me to work in a place where there is a good base stack, but 
 
 - 😄 My Pronouns: She/Her
 - 🔭 I’m currently working on: the GVB Gappie app at Infi
-- 🌱 I’m currently learning: Typescript
+- 🌱 I’m currently learning: TypeScript
 - 🤔 I’m looking for help with: feeling comfortable as a junior front-end developer
 - 💬 Ask me about: experiences in retraining from a marketeer to a front-end developer
 - 📫 How to reach me: send me a message at [LinkedIn](https://www.linkedin.com/in/annemieknieboer/)
