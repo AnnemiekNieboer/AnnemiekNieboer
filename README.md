@@ -8,12 +8,12 @@
 
 ---
 
-I just landed into my first job as a software developer at [Infi](https://www.infi.nl), I am passionate about online customer experience and a culture nerd. 
+I am a passionate front-end developer, have a heart for (online) customer experience, accessibility, and I am a culture nerd. 
 
 It is important for me to work in a place where there is a good base stack, but where there is also the courage to experiment. I love to keep developing myself and also contribute something good to the world.
 
 - 😄 My Pronouns: She/Her
-- 🔭 I’m currently working on: the GVB Gappie app at Infi
+- 🔭 I’m currently working on: my personal project [Gratitude Journey](https://github.com/AnnemiekNieboer/gratitude-journey-webapp), a webapp in React with TypeScript
 - 🌱 I’m currently learning: TypeScript
 - 🤔 I’m looking for help with: feeling comfortable as a junior front-end developer
 - 💬 Ask me about: experiences in retraining from a marketeer to a front-end developer
