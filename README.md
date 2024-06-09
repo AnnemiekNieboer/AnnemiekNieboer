@@ -10,12 +10,12 @@
 
 I am a passionate front-end developer, have a heart for (online) customer experience, accessibility, and I am a culture nerd. 
 
-It is important for me to work in a place where there is a good base stack, but where there is also the courage to experiment. I love to keep developing myself and also contribute something good to the world.
+I need to work in a place with a good base stack, but where there is also the courage to experiment. I love to keep developing myself and contribute something good to the world.
 
 - 😄 My Pronouns: She/Her
-- 🔭 I’m currently working on: my personal project [Gratitude Journey](https://github.com/AnnemiekNieboer/gratitude-journey-webapp), a webapp in React with TypeScript
-- 🌱 I’m currently learning: TypeScript
-- 🤔 I’m looking for help with: feeling comfortable as a junior front-end developer
-- 💬 Ask me about: experiences in retraining from a marketeer to a front-end developer
+- 🔭 I’m currently working on: At Paqt I'm working on an application for physios and their patients, in Vue3 (composition API), with Nuxt and a Laravel backend. In my spare time, I'm working on a portfolio website for the kite designer Bryan van Ostheim in Vue3 (composition API) with Pinia.
+- 🌱 I’m currently learning: TypeScript and also working on my a11y skills
+- 🤔 I’m looking for help with: developing as a junior front-end developer to a medior developer
+- 💬 Ask me about: experiences in retraining from a marketeer (or something else) to a front-end developer
 - 📫 How to reach me: send me a message at [LinkedIn](https://www.linkedin.com/in/annemieknieboer/)
 - ⚡ Fun fact: I love to crank my Hurdy Gurdy. If you don't know what it is, [check it out here](https://www.youtube.com/watch?v=MEc7fT1TDbU). And no this is not me, I wish I could play like this 😅
